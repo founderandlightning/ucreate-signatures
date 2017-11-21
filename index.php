@@ -33,7 +33,7 @@
                 <?php
                 $data_zero = substr($member->mobile, 0, 1);
                 $data_left = substr($member->mobile, 1, 5);
-                $data_right = substr($member->mobile, 5, 9);
+                $data_right = substr($member->mobile, 6, 9);
                 echo '('.$data_zero.') '.$data_left.' '.$data_right;
 
                   ?>
