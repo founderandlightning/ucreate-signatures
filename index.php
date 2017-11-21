@@ -32,8 +32,8 @@
               <?php if(!empty($member->mobile)): ?><p style="margin-bottom: 0;padding: 0; font-size: 14px; color: #2C2F2F;"><a style="color: #2C2F2F; text-decoration: none;" href="tel:+44<?php echo $member->mobile; ?>">+44
                 <?php
                 $data_zero = substr($member->mobile, 0, 1);
-                $data_left = substr($member->mobile, 1, 5);
-                $data_right = substr($member->mobile, 6, 9);
+                $data_left = substr($member->mobile, 1, 4);
+                $data_right = substr($member->mobile, 5, 9);
                 echo '('.$data_zero.') '.$data_left.' '.$data_right;
 
                   ?>
