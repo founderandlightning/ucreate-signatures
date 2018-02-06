@@ -1,7 +1,7 @@
 [
   {
     "name": "Matt Jonns",
-    "position": "Founder",
+    "position": "Founder & CEO",
     "email": "matt@ucreate.it",
     "mobile": "07715473617",
     "image": "",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Daniel Christey",
-    "position": "Chief Operating Officer",
+    "position": "COO",
     "email": "daniel@ucreate.it",
     "mobile": "07940794177",
     "image": "",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Pawel Kaminski",
-    "position": "Chief Technical Officer",
+    "position": "CTO",
     "email": "pawel@ucreate.it",
     "mobile": "07525757231",
     "image": "",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Joe Dempsey",
-    "position": "Product Manager",
+    "position": "Senior Product Manager",
     "email": "joe@ucreate.it",
     "mobile": "07507101136",
     "image": "",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Sam Dickie",
-    "position": "Product Manager",
+    "position": "Senior Product Manager",
     "email": "sam@ucreate.it",
     "mobile": "07835111905",
     "image": "",
@@ -49,23 +49,23 @@
   },
   {
     "name": "Francis Xavier Labiran",
-    "position": "Product Manager",
+    "position": "Senior Product Manager",
     "email": "francis@ucreate.it",
     "mobile": "07927595317",
     "image": "",
     "linkedin": "https://www.linkedin.com/in/francis-xavier-labiran"
   },
   {
-    "name": "Beccy Lee",
-    "position": "Junior Product Manager",
-    "email": "beccy@ucreate.it",
-    "mobile": "07896314815",
+    "name": "Sarah Martin",
+    "position": "Product Manager",
+    "email": "sarah@ucreate.it",
+    "mobile": "07540595749",
     "image": "",
-    "linkedin": "https://www.linkedin.com/in/beccy-lee-694a4922"
+    "linkedin": "https://www.linkedin.com/in/sarahmartin7"
   },
   {
     "name": "Josh Kidd",
-    "position": "Head of Growth",
+    "position": "Head of Partnerships",
     "email": "josh@ucreate.it",
     "mobile": "07834 838584",
     "image": "",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Patrick Colbeck",
-    "position": "Head of PR and Marketing",
+    "position": "Communications Manager",
     "email": "patrick@ucreate.it",
     "mobile": "07840964474",
     "image": "",
