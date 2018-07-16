@@ -1,23 +1,15 @@
 [
   {
-    "name": "Greg Hadala",
-    "position": "Product Designer",
-    "email": "greg@ucreate.it",
-    "mobile": "07561048644",
-    "image": "",
-    "linkedin": "https://www.linkedin.com/in/grzegorzhadala/"
-  },
-  {
     "name": "Matt Jonns",
-    "position": "Founder",
+    "position": "Founder & CEO",
     "email": "matt@ucreate.it",
     "mobile": "07715473617",
     "image": "",
-    "linkedin": ""
+    "linkedin": "https://www.linkedin.com/in/matt-jonns-4b132599"
   },
   {
     "name": "Daniel Christey",
-    "position": "Chief Operating Officer",
+    "position": "COO",
     "email": "daniel@ucreate.it",
     "mobile": "07940794177",
     "image": "",
@@ -25,15 +17,23 @@
   },
   {
     "name": "Pawel Kaminski",
-    "position": "Chief Technical Officer",
+    "position": "CTO",
     "email": "pawel@ucreate.it",
     "mobile": "07525757231",
     "image": "",
     "linkedin": "https://www.linkedin.com/in/pawelkaminski"
   },
   {
+    "name": "Alex Bolas",
+    "position": "Lead Product Manager",
+    "email": "alex@ucreate.it",
+    "mobile": "07703438087",
+    "image": "",
+    "linkedin": "https://www.linkedin.com/in/alexbolas"
+  },
+  {
     "name": "Joe Dempsey",
-    "position": "Product Manager",
+    "position": "Senior Product Manager",
     "email": "joe@ucreate.it",
     "mobile": "07507101136",
     "image": "",
@@ -41,27 +41,43 @@
   },
   {
     "name": "Sam Dickie",
-    "position": "Product Manager",
+    "position": "Senior Product Manager",
     "email": "sam@ucreate.it",
     "mobile": "07835111905",
     "image": "",
     "linkedin": "https://www.linkedin.com/in/samdickie"
   },
   {
-    "name": "Alex Bolas",
-    "position": "Product Manager",
-    "email": "alex@ucreate.it",
-    "mobile": "07703438087",
+    "name": "Francis Xavier Labiran",
+    "position": "Senior Product Manager",
+    "email": "francis@ucreate.it",
+    "mobile": "07927595317",
     "image": "",
-    "linkedin": "https://www.linkedin.com/in/alexbolas"
+    "linkedin": "https://www.linkedin.com/in/francis-xavier-labiran"
   },
   {
-    "name": "Tom Ray",
-    "position": "Product Designer",
-    "email": "tom@ucreate.it",
-    "mobile": "",
+    "name": "Sarah Martin",
+    "position": "Product Manager",
+    "email": "sarah@ucreate.it",
+    "mobile": "07540595749",
     "image": "",
-    "linkedin": "https://www.linkedin.com/in/tom-ray-92806667/"
+    "linkedin": "https://www.linkedin.com/in/sarahmartin7"
+  },
+  {
+    "name": "Josh Kidd",
+    "position": "Head of Partnerships",
+    "email": "josh@ucreate.it",
+    "mobile": "07834 838584",
+    "image": "",
+    "linkedin": "https://www.linkedin.com/in/wanlintai"
+  },
+  {
+    "name": "Patrick Colbeck",
+    "position": "Communications Manager",
+    "email": "patrick@ucreate.it",
+    "mobile": "07840964474",
+    "image": "",
+    "linkedin": "https://www.linkedin.com/in/patrick-colbeck"
   },
   {
     "name": "Wan-Lin Tai",
@@ -70,30 +86,6 @@
     "mobile": "07454763885",
     "image": "",
     "linkedin": "https://www.linkedin.com/in/wanlintai"
-  },
-  {
-    "name": "Matt Fennell",
-    "position": "Senior Project Manager",
-    "email": "matt.fennell@ucreate.it",
-    "mobile": "07870162732",
-    "image": "",
-    "linkedin": "https://www.linkedin.com/in/matt-fennell-b2649422/"
-  },
-  {
-    "name": "Indy Abai",
-    "position": "Commercial Director",
-    "email": "indy@ucreate.it",
-    "mobile": "07943661458",
-    "image": "",
-    "linkedin": "https://www.linkedin.com/in/indy-abai-8a94371/"
-  },
-  {
-    "name": "Francis Xavier Labiran",
-    "position": "Product Manager",
-    "email": "francis@ucreate.it",
-    "mobile": "07927595317",
-    "image": "",
-    "linkedin": "https://www.linkedin.com/in/francis-xavier-labiran"
   }
 
 ]
