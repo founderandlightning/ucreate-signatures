@@ -4,5 +4,5 @@
 4. Login to you Heroku account and project (instruction on the Herocu Docs)
 5. Make changes in the `index.php` file for layout changes
 6. Update `data.json` with new people onboard
-7. Push changes to Heroku: `heroku create`
+7. Push changes to Heroku: `git push heroku master`
 8. Done

@@ -29,15 +29,13 @@
               <?php endif; ?>
               </p>
               <?php if(!empty($member->position)): ?><p style="margin: 0px; padding: 0; font-size: 14px; color: #0E3FF2;font-weight: 500; font-weight: bold;"><?php echo $member->position; ?></p><?php endif; ?>
-              <?php if(!empty($member->mobile)): ?><p style="margin-bottom: 0;padding: 0; font-size: 14px; color: #050633;"><a style="color: #050633; text-decoration: none;" href="tel:+44<?php echo $member->mobile; ?>">+44
-                <?php
-                $data_zero = substr($member->mobile, 0, 1);
-                $data_left = substr($member->mobile, 1, 4);
-                $data_right = substr($member->mobile, 5, 9);
-                echo '('.$data_zero.') '.$data_left.' '.$data_right;
-
-                  ?>
-              </a></p><?php endif; ?>
+              <?php if(!empty($member->mobile)): ?>
+                <p style="margin-bottom: 0;padding: 0; font-size: 14px; color: #050633;">
+                  <a style="color: #050633; text-decoration: none;" href="tel:<?php echo str_replace(' ','',$member->mobile);?>">
+                    <?php echo $member->mobile; ?>
+                  </a>
+                </p>
+              <?php endif; ?>
               <a href="https://www.ucreate.it"><img src="https://s3-eu-west-1.amazonaws.com/ucreate/ucreate-logo_250x49.png" alt="ucreate.it" height="24" style="margin-top: 24px;"></a>
                 <p style="font-size: 12px; color: #f5f5f5;">
                   <a href="https://www.facebook.com/ucreateit-404971796259264/?fref=ts" target="_blank" style="color: #050633; text-decoration: none;">Facebook</a> |
