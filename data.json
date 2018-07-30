@@ -86,6 +86,21 @@
     "mobile": "07454763885",
     "image": "",
     "linkedin": "https://www.linkedin.com/in/wanlintai"
+  },
+  {
+    "name": "Marcin Dusza",
+    "position": "Lead Front-End Developer",
+    "email": "marcin@ucreate.it",
+    "mobile": "+48508324865",
+    "image": "",
+    "linkedin": "https://www.linkedin.com/in/marcin-dusza-93418991/"
+  },
+  {
+    "name": "Mikołaj Dobrucki",
+    "position": "Lead Designer",
+    "email": "mikolaj@ucreate.it",
+    "mobile": "+48537584039",
+    "image": "",
+    "linkedin": "https://www.linkedin.com/in/mikolajdobrucki/"
   }
-
 ]
