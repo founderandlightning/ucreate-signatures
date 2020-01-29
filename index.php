@@ -28,7 +28,7 @@
                 <?php echo $member->name; ?>
               <?php endif; ?>
               </p>
-              <?php if(!empty($member->position)): ?><p style="margin: 0px; padding: 0; font-size: 14px; color: #0E3FF2;font-weight: 500; font-weight: bold;"><?php echo $member->position; ?></p><?php endif; ?>
+              <?php if(!empty($member->position)): ?><p style="margin: 0px; padding: 0; font-size: 14px; color: #2329D6;font-weight: 500; font-weight: bold;"><?php echo $member->position; ?></p><?php endif; ?>
               <?php if(!empty($member->mobile)): ?>
                 <p style="margin-bottom: 0;padding: 0; font-size: 14px; color: #050633;">
                   <a style="color: #050633; text-decoration: none;" href="tel:<?php echo str_replace(' ','',$member->mobile);?>">
