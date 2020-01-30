@@ -24,14 +24,6 @@
     "linkedin": "https://www.linkedin.com/in/pawelkaminski"
   },
   {
-    "name": "Alex Bolas",
-    "position": "Lead Product Manager",
-    "email": "alex@ucreate.it",
-    "mobile": "+44 0 7703 438087",
-    "image": "",
-    "linkedin": "https://www.linkedin.com/in/alexbolas"
-  },
-  {
     "name": "Joe Dempsey",
     "position": "Senior Product Manager",
     "email": "joe@ucreate.it",
@@ -56,32 +48,8 @@
     "linkedin": "https://www.linkedin.com/in/francis-xavier-labiran"
   },
   {
-    "name": "Sarah Martin",
-    "position": "Product Manager",
-    "email": "sarah@ucreate.it",
-    "mobile": "+44 0 7540 595749",
-    "image": "",
-    "linkedin": "https://www.linkedin.com/in/sarahmartin7"
-  },
-  {
-    "name": "Josh Kidd",
-    "position": "Head of Partnerships",
-    "email": "josh@ucreate.it",
-    "mobile": "+44 0 7834 838584",
-    "image": "",
-    "linkedin": "https://www.linkedin.com/in/wanlintai"
-  },
-  {
-    "name": "Patrick Colbeck",
-    "position": "Communications Manager",
-    "email": "patrick@ucreate.it",
-    "mobile": "+44 0 7840 964474",
-    "image": "",
-    "linkedin": "https://www.linkedin.com/in/patrick-colbeck"
-  },
-  {
     "name": "Wan-Lin Tai",
-    "position": "UI Designer",
+    "position": "Product & Experience Design Consultant",
     "email": "wan-lin@ucreate.it",
     "mobile": "+44 0 7454 763885",
     "image": "",
@@ -89,7 +57,7 @@
   },
   {
     "name": "Marcin Dusza",
-    "position": "Lead Front-End Developer",
+    "position": "Head of Technology",
     "email": "marcin@ucreate.it",
     "mobile": "+48 508 324 865",
     "image": "",
@@ -105,19 +73,11 @@
   },
   {
     "name": "Patrycja Krok",
-    "position": "Happiness Officer",
+    "position": "Head of People",
     "email": "patrycja@ucreate.it",
     "mobile": "+48 514 674 556",
     "image": "",
     "linkedin": "https://www.linkedin.com/in/patrycja-krok-11704788/"
-  },
-  {
-    "name": "Geraint Thomason",
-    "position": "Director of Enterprise",
-    "email": "geraint@ucreate.it",
-    "mobile": "+44 0 7468 565450",
-    "image": "",
-    "linkedin": "https://www.linkedin.com/in/gthomason/"
   },
   {
     "name": "Victoria Davies",
@@ -126,5 +86,62 @@
     "mobile": "+44 0 7495 645211",
     "image": "",
     "linkedin": "https://www.linkedin.com/in/victoriadavies92/"
+  },
+  {
+    "name": "Ian Jordan",
+    "position": "Chairman",
+    "email": "ian@ucreate.it",
+    "mobile": "+44 0 7875 002790",
+    "image": "",
+    "linkedin": "https://www.linkedin.com/company/ucreate-it"
+  },
+  {
+    "name": "Jim Shirley”",
+    "position": "Chief Financial Officer",
+    "email": "jim@ucreate.it",
+    "mobile": "+44 0 7500 448454",
+    "image": "",
+    "linkedin": "https://uk.linkedin.com/in/jim-shirley-finance-director"
+  },
+  {
+    "name": "John Miniadis”",
+    "position": "Head of Growth",
+    "email": "john@ucreate.it",
+    "mobile": "+44 0 7394 591742",
+    "image": "",
+    "linkedin": "https://www.linkedin.com/in/minijohn"
+  },
+  {
+    "name": "Pippa Stevens",
+    "position": "Product Manager",
+    "email": "pippa@ucreate.it",
+    "mobile": "+44 0 7706 368642",
+    "image": "",
+    "linkedin": "https://www.linkedin.com/in/pippastevens"
+  },
+  {
+    "name": "Mila Suankulova",
+    "position": "Product Manager",
+    "email": "mila@ucreate.it",
+    "mobile": "+44 0 7429 266023",
+    "image": "",
+    "linkedin": "https://www.linkedin.com/in/mila-suankulova-b394a5a6/"
+  },
+  {
+    "name": "Holly Marsh",
+    "position": "Product Manager",
+    "email": "holly@ucreate.it",
+    "mobile": "+44 0 7887 499877",
+    "image": "",
+    "linkedin": "https://www.linkedin.com/in/holly-marsh-78a72715a"
+  },
+  {
+    "name": "Ammar Ahmad",
+    "position": "Product Manager",
+    "email": "ammar@ucreate.it",
+    "mobile": "+44 0 7807 217195",
+    "image": "",
+    "linkedin": "https://www.linkedin.com/in/syed-ammar-ahmad-646718130"
   }
+  
 ]
